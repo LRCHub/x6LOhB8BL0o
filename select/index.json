@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "どくどく",
+  "base_artist": "理芽",
+  "createdAt": "2025-12-06T02:36:29.789165Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "どくどく",
+      "artist": "理芽",
+      "has_synced": false,
+      "path": "select/pl_01_どくどく_理芽.txt"
+    }
+  ]
+}
